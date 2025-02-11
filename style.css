@@ -306,7 +306,17 @@ footer .line-footer p a{
     color: #f0d25b;
 }
 
+/* Personalização da barra de rolagem*/
 
+::-webkit-scrollbar{
+    width: 20px;
+    background-color:  #f0d25b;
+}
+::-webkit-scrollbar-thumb{
+    width: 20px;
+    background-color:  #1f2c61;
+    
+}
 
 
 
